@@ -12,6 +12,7 @@ body {
 header {
 	color: saddlebrown;
 	padding-top: 100;
+	margin: 50px;
 	font: 200 40px/1.5 'Pacifico', Helvetica;
 }
 
