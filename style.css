@@ -30,17 +30,17 @@ nav {
 .top-menu li {
 	display: inline-block;
 	text-align: center;
-	margin: 30px 5px;
+	margin: 25px 5px;
 	position: relative;
 	-webkit-transition: all 0.3s ease; 
 	-moz-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 }
 .top-menu li:hover {
-	margin: 30px 20px; 
+	margin: 25px 20px; 
 }
 .top-menu li:active {
-	margin: 30px 33px; 
+	margin: 25px 33px; 
 }
 .top-menu li a  {
 	width: 100px;
