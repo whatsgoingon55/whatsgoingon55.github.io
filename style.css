@@ -101,10 +101,9 @@ nav {
 
 }
 #home { background: #41D05F; }
-#cataloge { background: #E42B2B; }
-#price { background: #ff8400; }
+#gallary { background: #E42B2B; }
+#get involved { background: #ff8400; }
 #about { background: #a800ff; }
-#contact { background: #49a7f3; }
 
 article {
 	width: 48%;
