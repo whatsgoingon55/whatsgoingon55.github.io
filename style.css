@@ -1,0 +1,78 @@
+body {
+	background-image: url("images/sunflower.jpg");
+	color: saddlebrown;
+	font-family: arial; 
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+	color: saddlebrown;
+	padding-top: 10;
+	font: 200 40px/1.5 'Pacifico', Helvetica;
+}
+
+h1 {
+	background-position: center;
+	text-align: center; 
+	margin: 15px; 
+}
+
+nav {
+	padding: 10px;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 0 15px;
+	font-size: 20px;
+}
+
+li a:link, li a:active, li a:hover, li a:visited {
+	color: #000;
+	text-decoration: none;
+}
+
+li a:hover {
+	text-decoration: underline;
+	color: #fff;
+	font-weight: bold;
+}
+
+article {
+	width: 48%;
+	float: left;
+}
+
+article img{
+	max-width: 85%;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+	color: sandybrown;
+	padding: 1.5px;
+}
+h2 {
+	text-align: center; 
+	margin-left: 15px;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+	background-color: silver;
+	padding: 1.5px;
+}
+.trans{
+	background-color: rgba(255, 255, 255, 0.5);
+}
