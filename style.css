@@ -12,7 +12,7 @@ body {
 header {
 	color: saddlebrown;
 	padding-top: 100;
-	margin: 50px;
+	margin: 45px;
 	font: 200 40px/1.5 'Pacifico', Helvetica;
 }
 
@@ -25,7 +25,7 @@ h1 {
 nav {
 	width: 960px;
 	height: 10px;
-	margin: 75px;
+	margin: 100px;
 	text-align: center;
 }
 .top-menu li {
