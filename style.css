@@ -101,10 +101,10 @@ nav {
 	border-bottom-right-radius: 50px; 
 
 }
-#home { background: #41D05F; }
-#childplay { background: #E42B2B; }
-#getinvolved{ background: #ff8400; }
-#gallery { background: #a800ff; }
+#home { background: gold; }
+#childplay { background: yellow; }
+#getinvolved{ background: olivedrab; }
+#gallery { background: yellowgreen; }
 
 article {
 	width: 48%;
